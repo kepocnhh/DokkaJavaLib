@@ -1,0 +1,7 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:dokka.java.lib////PointingToDeclaration/-dokka-java-lib/dokka.java.lib/index.html
+$dokka.location:dokka.java.lib/Foo///PointingToDeclaration/-dokka-java-lib/dokka.java.lib/-foo/index.html
+$dokka.location:dokka.java.lib/Foo/bar/#/PointingToDeclaration/-dokka-java-lib/dokka.java.lib/-foo/bar.html
+dokka.java.lib
+
